@@ -72,12 +72,13 @@ ZSH_CUSTOM=$HOME/.local/share/oh-my-zsh
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  # zsh-vi-mode
+  git
   colorize
   fzf
-  git
-  k
   sudo
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  zsh-vi-mode
 )
 
 
