@@ -1,0 +1,10 @@
+[Unit]
+Description=Hyprpaper
+
+[Service]
+ExecStart=hyprpaper
+Restart=always
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target

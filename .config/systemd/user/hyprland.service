@@ -1,0 +1,11 @@
+[Unit]
+Description= Hyprland
+After=graphical.target
+
+[Service]
+ExecStart=hyprland
+Environment=WAYLAND_DISPLAY=wayland-0
+Restart=always
+
+[Install]
+WantedBy=default.target
