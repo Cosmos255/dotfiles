@@ -1,0 +1,73 @@
+
+
+Tue May  6 20:24:38 2025
+An error happened while handling a ui event
+...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: E5560: Vimscript function must not be called in a fast event context
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'localtime'
+	...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: in function 'init'
+	.../.local/share/nvim/lazy/nui.nvim/lua/nui/object/init.lua:132: in function 'Message'
+	...l/.local/share/nvim/lazy/noice.nvim/lua/noice/ui/msg.lua:87: in function 'handler'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:184: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:183>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'safe_handle'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:92: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+Tue May  6 20:24:38 2025
+An error happened while handling a ui event
+...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: E5560: Vimscript function must not be called in a fast event context
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'localtime'
+	...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: in function 'init'
+	.../.local/share/nvim/lazy/nui.nvim/lua/nui/object/init.lua:132: in function 'Message'
+	...l/.local/share/nvim/lazy/noice.nvim/lua/noice/ui/msg.lua:87: in function 'handler'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:184: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:183>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'safe_handle'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:92: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:74>
+
+Tue May  6 20:24:38 2025
+An error happened while handling a ui event
+...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: E5560: Vimscript function must not be called in a fast event context
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'localtime'
+	...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: in function 'init'
+	.../.local/share/nvim/lazy/nui.nvim/lua/nui/object/init.lua:132: in function 'Message'
+	...l/.local/share/nvim/lazy/noice.nvim/lua/noice/ui/msg.lua:87: in function 'handler'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:184: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:183>
+	...
+	[C]: at 0x574969c2b690
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:321: in function '_advance_win_state'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:181: in function '_update_window'
+	.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:37: in function <.../share/nvim/lazy/nvim-notify/lua/notify/windows/init.lua:30>
+	[C]: in function 'pcall'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:33: in function '_run'
+	.../share/nvim/lazy/nvim-notify/lua/notify/service/init.lua:44: in function ''
+	vim/_editor.lua: in function ''
+	vim/_editor.lua: in function <vim/_editor.lua:0>
+
+Tue May  6 20:24:38 2025
+An error happened while handling a ui event
+...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: E5560: Vimscript function must not be called in a fast event context
+
+stack traceback:
+	[C]: in function 'pcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:144: in function <...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:143>
+	[C]: in function 'localtime'
+	...al/share/nvim/lazy/noice.nvim/lua/noice/message/init.lua:31: in function 'init'
+	.../.local/share/nvim/lazy/nui.nvim/lua/nui/object/init.lua:132: in function 'Message'
+	...l/.local/share/nvim/lazy/noice.nvim/lua/noice/ui/msg.lua:87: in function 'handler'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:184: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:183>
+	[C]: in function 'xpcall'
+	...local/share/nvim/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'safe_handle'
+	.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:92: in function <.../.local/share/nvim/lazy/noice.nvim/lua/noice/ui/init.lua:74>

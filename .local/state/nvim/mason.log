@@ -1,0 +1,20 @@
+[INFO  Tue May  6 18:24:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Tue May  6 18:24:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Tue May  6 18:24:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettierd) {}
+[INFO  Tue May  6 18:24:57 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=eslint-lsp) {}
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=eslint-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=prettierd) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=tailwindcss-language-server) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=tailwindcss-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vue-language-server) {}
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Tue May  6 18:25:05 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=vue-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Tue May  6 18:25:06 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Tue May  6 18:25:09 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Tue May  6 18:25:11 2025] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)

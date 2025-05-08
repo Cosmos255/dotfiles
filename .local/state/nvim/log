@@ -1,0 +1,12 @@
+ERR 2025-05-06T18:29:47.021 ui.9164    tui_stop:617: TUI already stopped (race?)
+ERR 2025-05-06T20:24:38.603 nvim.4991.0 ui_attach_error:719: Error in "msg_show" UI event handler (ns=noice):
+fast context failure
+ERR 2025-05-06T20:24:38.743 nvim.4991.0 ui_attach_error:719: Error in "msg_show" UI event handler (ns=noice):
+fast context failure
+ERR 2025-05-06T20:24:38.745 nvim.4991.0 ui_attach_error:719: Error in "msg_show" UI event handler (ns=noice):
+fast context failure
+ERR 2025-05-06T20:24:38.752 nvim.4991.0 ui_attach_error:719: Error in "msg_show" UI event handler (ns=noice):
+fast context failure
+ERR 2025-05-06T20:24:42.476 ui.4989    tui_stop:617: TUI already stopped (race?)
+ERR 2025-05-06T20:24:59.493 ui.5515    tui_stop:617: TUI already stopped (race?)
+ERR 2025-05-06T20:26:40.541 ui.5621    tui_stop:617: TUI already stopped (race?)
